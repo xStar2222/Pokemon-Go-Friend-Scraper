@@ -8,7 +8,7 @@ def extract_numbers(text):
     return numbers
 
 url = 'https://www.reddit.com/r/PokemonGoFriends/new/.json'
-webhook_url = 'https://discord.com/api/webhooks/1107140365577879644/opXwKiXg8qJcUAeO6OwvL2vO0X4NMDwLLqR_nVCqRB20a0c86lbWASiRExfmJpKdNtjG'
+webhook_url = 'Your URL Here'
 
 most_recent_post = None
 
